@@ -1,0 +1,14 @@
+#display/nodisplay[meaning show the glut display or not] autoRec [total number of frame want to record] [total number of color frame want to save as jpg]
+#
+
+[dispay]
+display_mode   1 #1 on 0 off 
+
+
+[record]
+record_mode   0 # 1 auto  0 mannual
+
+record_frame  100 # only enable in record_mode=1
+
+enable_preview_record_image  3 #
+
